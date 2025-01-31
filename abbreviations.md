@@ -9,3 +9,4 @@
 - INCOTERMS : International Commercial Terms 
 - TMS : Transport Management System
 - WMS : Warehouse Management System
+- APICS : Association for Supply Chain Management
