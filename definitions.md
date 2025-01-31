@@ -1,5 +1,12 @@
 # definitions (methodology, management or tools)
 
+## In summary
+
+- The Supply Chain is the management of incoming and outgoing movements of information, materials, and money within a company to deliver to the customer on time.
+- The three types of flows are information flows, material flows, and financial flows.
+- The objective is to add value to the product (in manufacturing or distribution) to ensure the profitability of the company.
+- The tool called macro VSM (Value Stream Mapping) is used to map and analyze these flows.
+
 ## Methodology 
 
 - Demand Driven Material Resource Planning (DDMRP), a logistics methodology for flow planning. (FR) une méthodologie logistique de planification de flux.
