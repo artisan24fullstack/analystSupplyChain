@@ -1,5 +1,12 @@
 # Project Supply Chain
 
+```
+The Supply Chain (the management of flows to deliver to an end customer) 
+is a global network for delivering products and services from raw materials to end customers.
+
+The Supply Chain is not limited to logistics, transportation, or procurement.
+```
+
 ## Start your Supply Chain Analyst training
 - Set yourself up for success in your journey: envision your training, define your schedule, and familiarize yourself with the essential tools for learning.
 

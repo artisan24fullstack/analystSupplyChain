@@ -10,3 +10,5 @@
 - TMS : Transport Management System
 - WMS : Warehouse Management System
 - APICS : Association for Supply Chain Management
+- VMI : Vendor Managed Inventory 
+  

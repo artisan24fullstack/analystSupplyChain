@@ -1,14 +1,12 @@
 #  Visualize the Supply Chain flows
 
-## In summary
+## In what order should flows be considered to manage the Supply Chain ?
 
-```
-- The Supply Chain is the management of incoming and outgoing movements
-  of information, materials, and money within a company to deliver to the customer on time.
-- The three types of flows are information flows, material flows, and financial flows.
-- The objective is to add value to the product (in manufacturing or distribution) to ensure the profitability of the company.
-- The tool called macro VSM (Value Stream Mapping) is used to map and analyze these flows.
-```
+- The information flow, the material flow, then the financial flow
+
+* The first flow is the information flow, to take into account the needs of customers.
+* The second flow is the material flow, to "do" according to what the customer wants.
+* The financial flow begins when the material flow is put in place to pay suppliers and receive payment from customers
   
 ## To organize these 3 flows
 
@@ -78,3 +76,13 @@ How to distribute:
 - I need to reduce the time between purchasing raw materials (I pay my suppliers) 
 - and selling finished products (my customers pay me). 
 - To achieve this, I must accelerate the material flow.
+
+## In summary
+
+```
+- The Supply Chain is the management of incoming and outgoing movements
+  of information, materials, and money within a company to deliver to the customer on time.
+- The three types of flows are information flows, material flows, and financial flows.
+- The objective is to add value to the product (in manufacturing or distribution) to ensure the profitability of the company.
+- The tool called macro VSM (Value Stream Mapping) is used to map and analyze these flows.
+```

@@ -1,4 +1,13 @@
 # Discover the key stages
+ 
+## The Supply Chain 
+  
+```
+(the management of flows to deliver to an end customer) 
+is a global network for delivering products and services from raw materials to end customers.
+
+The Supply Chain is not limited to logistics, transportation, or procurement.
+```
 
 ## Respond to Constraints Throughout the Supply Chain
 
