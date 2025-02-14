@@ -33,3 +33,7 @@
 - Particularly XXS and XXL, is critical to avoid missing sales opportunities 
 - Having unsold items at the end of a collection.
 
+### In summary
+
+- The constraints of a Supply Chain are multiple and must be taken into account in its design 
+- Subsequently managed with the flow of information to respond to customers and each environment.

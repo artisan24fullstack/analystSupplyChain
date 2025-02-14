@@ -44,3 +44,8 @@ Am I aligning with the prices expected by my customers ?
 ```  
 
 PS - These indicators align with the SCOR performance attributes of reliability, responsiveness, agility, quality, and cost.
+
+### In summary
+
+- The Supply Chain processes are described in the SCOR model: plan, source, make, deliver, return, and manage.
+- The indicators for monitoring and controlling processes should be based on flows.
