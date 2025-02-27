@@ -63,7 +63,9 @@ Shared supply management (SSM) or Vendor Managed Inventory (VMI)
 - In some cases, a quality control check at reception is necessary.
 
 ```
-For quality control at reception, there are 3 levels of control depending on the criticality of the failures encountered and their frequency:
+For quality control at reception, 
+there are 3 levels of control depending on the criticality 
+of the failures encountered and their frequency:
 
 * Systematic control: all deliveries are checked;
 * Random control: deliveries are checked at random (according to rules to be defined);
