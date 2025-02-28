@@ -11,4 +11,5 @@
 - WMS : Warehouse Management System
 - APICS : Association for Supply Chain Management
 - VMI : Vendor Managed Inventory 
+- FIFO : First In First Out
   
